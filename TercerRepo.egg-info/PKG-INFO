@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: TercerRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/Pretoriano1981/TercerRepo
+Author: Mario
+Author-email: marcas1981@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
